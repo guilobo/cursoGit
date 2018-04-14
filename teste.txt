@@ -1,3 +1,2 @@
 tesste numero 2
-teste 3
-conflito
+resolvendo conflito
