@@ -1,4 +1,4 @@
-Titulo
+﻿Titulo
 
 tesste numero 2
 
@@ -11,4 +11,4 @@ lobo
 
 nova linah
 
-oi oi rodapé
+error
