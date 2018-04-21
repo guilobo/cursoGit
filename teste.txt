@@ -1,6 +1,6 @@
 tesste numero 2
 
-conflito 2
+conflito 2 -lobo
 1
 
 teste 3
