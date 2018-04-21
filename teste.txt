@@ -1,2 +1,7 @@
 tesste numero 2
-resolvendo conflito
+
+conflito 2
+1
+
+teste 3
+
